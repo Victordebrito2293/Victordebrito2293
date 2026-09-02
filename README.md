@@ -32,32 +32,35 @@ I work primarily with **No-Code development**, while exploring and applying conc
 ### 🌐 Web Technologies
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 🧩 No-Code & Digital Creation
 
 ![No Code](https://img.shields.io/badge/No--Code-18181B?style=for-the-badge)
-
 ![UI UX](https://img.shields.io/badge/UI%2FUX-18181B?style=for-the-badge)
-
 ![Responsive Design](https://img.shields.io/badge/Responsive%20Design-18181B?style=for-the-badge)
-
 ![Automation](https://img.shields.io/badge/Automation-18181B?style=for-the-badge)
 
 ### ⚙️ Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Victordebrito2293&show_icons=true&theme=tokyonight&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordebrito2293&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
