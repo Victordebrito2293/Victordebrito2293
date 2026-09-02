@@ -52,15 +52,6 @@ I work primarily with **No-Code development**, while exploring and applying conc
 
 ---
 
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Victordebrito2293&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordebrito2293&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🎯 What I care about
 
 I believe creating a digital product is about more than making something look good.
