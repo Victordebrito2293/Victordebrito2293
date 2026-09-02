@@ -96,7 +96,7 @@ My goal is to create digital experiences that are not only visually appealing, b
 
 > **Technology is a tool.**
 >
-> The real work is understanding the problem, creating the right experience, and turning an idea into something people can actually use.
+> Tools evolve. Technologies change. What remains is the ability to understand problems, create meaningful experiences, and build solutions that matter.
 
 ---
 
