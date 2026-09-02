@@ -91,38 +91,6 @@ Keeping projects organized and understandable so they can evolve over time.
 
 ---
 
-## 🚀 Featured Projects
-
-A selection of projects that represent my work, experimentation, and continuous learning.
-
-### ☀️ Solar Shine
-
-A modern web project focused on visual experience, responsive design, and interactive elements.
-
-**Technologies:** HTML · CSS · JavaScript · TypeScript
-
-🔗 [View Repository](https://github.com/Victordebrito2293/remix-of-solar-shine-project)
-
----
-
-## 📊 GitHub Activity
-
-<p align="left">
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=Victordebrito2293&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victordebrito2293&layout=compact&theme=tokyonight&hide_border=true"
-  />
-
-</p>
-
----
-
 ## 🧭 Currently Building
 
 I'm continuously exploring new ways to combine:
